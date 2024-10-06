@@ -15,12 +15,13 @@ setup(
         'keras>=2.10.0'       
     ],
     classifiers=[
-        'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent',
-        'Intended Audience :: Developers',
-        'Intended Audience :: Science/Research', 
-        'Topic :: Scientific/Engineering :: Artificial Intelligence',
-    ],
+    'Programming Language :: Python :: 3',
+    'License :: Apache Software License',
+    'License :: Patented Technology',
+    'Operating System :: OS Independent',
+    'Intended Audience :: Developers',
+    'Intended Audience :: Science/Research', 
+    'Topic :: Scientific/Engineering :: Artificial Intelligence',
+],
     python_requires='>=3.6',
 )

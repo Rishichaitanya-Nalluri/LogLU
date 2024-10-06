@@ -1,11 +1,11 @@
 
-# LogLU (Logarithmic Linear Units) --- Activation Function 🔥
+## LogLU (Logarithmic Linear Units) --- Activation Function
 
 Welcome to **LogLU**, a novel activation function designed to take your deep neural networks 🚀
 
 The **Logarithmic Linear Unit (LogLU)** improves convergence speed, stability, and overall model performance. Whether you're building AI for image recognition, NLP, or anything in between, this activation function is designed to make your models faster and smarter. 📈💡
 
-## Why LogLU? 🤔
+### Why LogLU? 🤔
 
 We all love activation functions like ReLU and its cousins, but sometimes, you need something a bit sharper and smarter. Here’s why LogLU stands out:
 
@@ -13,7 +13,7 @@ We all love activation functions like ReLU and its cousins, but sometimes, you n
 - 💪 **Stability**: No more exploding or vanishing gradients—LogLU keeps things smooth.
 - 📊 **Performance**: Whether it's accuracy or loss reduction, LogLU consistently outperforms traditional activations.
 
-## Installation 💻
+### Installation 💻
 
 Ready to give it a go? Just run the following command to install LogLU:
 
@@ -21,11 +21,11 @@ Ready to give it a go? Just run the following command to install LogLU:
 pip install loglu
 ```
 
-## Usage 🔧
+### Usage 🔧
 
 Here’s how you can integrate LogLU into your deep learning models.
 
-### With TensorFlow:
+#### With TensorFlow:
 
 ```python
 import tensorflow as tf
@@ -45,7 +45,7 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 model.summary()
 ```
 
-### How It Works 🛠️
+#### How It Works 🛠️
 
 LogLU combines the smooth nature of logarithmic functions with the linear simplicity of ReLU. It’s designed to maintain gradient flow even in deep networks, ensuring fast and stable learning without the common pitfalls of gradient vanishing or exploding.
 
@@ -53,7 +53,7 @@ For all you math enthusiasts out there, here’s the equation:
 - If `x > 0`: LogLU behaves like ReLU.
 - If `x <= 0`: It has a logarithmic form, helping with negative values.
 
-## Feedback, Bugs, & Contributions 🐛
+### Feedback, Bugs, & Contributions 🐛
 
 Got feedback or found a bug? Feel free to open an issue or contribute on GitHub:
 

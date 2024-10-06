@@ -59,6 +59,7 @@ Got feedback or found a bug? Feel free to open an issue or contribute on GitHub:
 
 - GitHub: https://github.com/Rishichaitanya-Nalluri/LogLU
 - Email: rishichaitanya888@gmail.com
+- PYPI: https://pypi.org/project/loglu/
 
 Let’s make machine learning even more fun and efficient together!
 

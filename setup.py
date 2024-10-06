@@ -7,7 +7,6 @@ setup(
     long_description_content_type='text/markdown',
     author='Rishi Chaitanya Sri Prasad Nalluri',
     author_email='rishichaitanya888@gmail.com',
-    license='MIT (with patent notice)',
     packages=find_packages(),
     install_requires=[
         'numpy>=1.20.0',      

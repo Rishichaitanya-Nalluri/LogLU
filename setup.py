@@ -16,12 +16,12 @@ setup(
     ],
     classifiers=[
     'Programming Language :: Python :: 3',
-    'License :: Apache Software License',
-    'License :: Patented Technology',
+    'License :: OSI Approved :: Apache Software License',
     'Operating System :: OS Independent',
     'Intended Audience :: Developers',
     'Intended Audience :: Science/Research', 
     'Topic :: Scientific/Engineering :: Artificial Intelligence',
-],
+]
+,
     python_requires='>=3.6',
 )

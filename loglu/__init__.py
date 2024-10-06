@@ -1,1 +1,1 @@
-from loglu import LogLU
+from .loglu import LogLU

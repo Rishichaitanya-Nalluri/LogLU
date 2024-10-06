@@ -1,5 +1,5 @@
 
-# LogLU (Logarithmic Linear Unit) Activation Function 🔥
+# LogLU (Logarithmic Linear Units) --- Activation Function 🔥
 
 Welcome to **LogLU**, a novel activation function designed to take your deep neural networks 🚀
 

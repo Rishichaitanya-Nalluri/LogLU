@@ -29,9 +29,9 @@ Here’s how you can integrate LogLU into your deep learning models.
 
 ```python
 import tensorflow as tf
-from loglu import LogLU
+from loglu import LogLU 
 
-# Define a model
+# Define a model 
 model = tf.keras.models.Sequential([
     tf.keras.layers.Dense(128, input_shape=(784,)),
     tf.keras.layers.Activation(LogLU()),  # Use LogLU as the activation function
@@ -57,8 +57,8 @@ For all you math enthusiasts out there, here’s the equation:
 
 Got feedback or found a bug? Feel free to open an issue or contribute on GitHub:
 
-- GitHub: (https://github.com/Rishichaitanya-Nalluri/LogLU)
-- Email: (rishichaitanya888@gmail.com)
+- GitHub: https://github.com/Rishichaitanya-Nalluri/LogLU
+- Email: rishichaitanya888@gmail.com
 
 Let’s make machine learning even more fun and efficient together!
 

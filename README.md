@@ -50,7 +50,7 @@ model.summary()
 LogLU combines the smooth nature of logarithmic functions with the linear simplicity of ReLU. It’s designed to maintain gradient flow even in deep networks, ensuring fast and stable learning without the common pitfalls of gradient vanishing or exploding.
 
 For all you math enthusiasts out there, here’s the equation:
-- If `x > 0`: LogLU behaves like ReLU.
+- If `x > 0`: LogLU behaves like linear.
 - If `x <= 0`: It has a logarithmic form, helping with negative values.
 
 ### Feedback, Bugs, & Contributions 🐛

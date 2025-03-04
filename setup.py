@@ -3,12 +3,13 @@ from setuptools import setup, find_packages
 
 setup(
     name='loglu',  
-    version='1.1.3',
+    version='1.1.4',
     description='The Logarithmic Linear Unit (LogLU) is a novel activation function designed for deep neural networks, improving convergence speed, stability, and overall model performance',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     author='Rishi Chaitanya Sri Prasad Nalluri',
     author_email='rishichaitanya888@gmail.com',
+    url='https://github.com/Rishichaitanya-Nalluri/LogLU',
     packages=find_packages(),
     license="Apache-2.0",
     install_requires=[     

@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: loglu
-Version: 1.1.3
+Version: 1.1.4
 Summary: The Logarithmic Linear Unit (LogLU) is a novel activation function designed for deep neural networks, improving convergence speed, stability, and overall model performance
+Home-page: https://github.com/Rishichaitanya-Nalluri/LogLU
 Author: Rishi Chaitanya Sri Prasad Nalluri
 Author-email: rishichaitanya888@gmail.com
 License: Apache-2.0
